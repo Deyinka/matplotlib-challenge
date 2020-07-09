@@ -3,7 +3,7 @@
  Project Status: Completed
 
 ## Project Intro/Objective
-The purpose of this project is tell a story of drug efficacy in a Pharmaceuticals with plots
+The purpose of this project is tell a story of drug efficacy on mice with plots/ visualizations
 
 
 ### Methods Used
